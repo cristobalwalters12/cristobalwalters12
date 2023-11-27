@@ -10,7 +10,7 @@ I'm passionate about technology and design. My goal is to provide an exceptional
 
 - **CronApp**: Telemedicine project developed with VueJS for DuocUC. https://cronapp.cl
 - **Infocas**: FullStack PHP application for temperature monitoring for the company ControlAS. https://infocas.cl
-
+- **Frest** : (internship) Fullstack Laravel,Astro,VueJS Ecommerce https://frest.cl
 
 ## 📫 Contact
 
